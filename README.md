@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Currently a 2nd-year student at Epitech Lille, I'm passionate about software development and technological innovation.<br><br>🚀 I'm always looking for new challenges and collaborative projects. Feel free to reach out for any collaboration opportunities or just to chat about tech!<br><br>📸 When I'm not coding, you can find me capturing moments through my lens, combining my love for technology and creativity.</p>
+<p align="left">🎓 Currently a 3nd-year student at Epitech Lille, I'm passionate about software development and technological innovation.<br><br>🚀 I'm always looking for new challenges and collaborative projects. Feel free to reach out for any collaboration opportunities or just to chat about tech!<br><br>📸 When I'm not coding, you can find me capturing moments through my lens, combining my love for technology and creativity.</p>
 
 ###
 
@@ -26,17 +26,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=haskell" height="30" alt="haskell logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="30" alt="grafana logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ansible" height="30" alt="ansible logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prometheus" height="30" alt="prometheus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
